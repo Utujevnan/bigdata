@@ -16,7 +16,7 @@ This project combines data cleaning, feature engineering, and dashboard design t
 
 ---
 
-## 🛠 Methodology
+## Methodology
 
 The analysis followed these major steps:
 
