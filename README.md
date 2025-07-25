@@ -1,4 +1,11 @@
 
+
+**Name:** Utuje Vanessa  
+**Student ID:** 27570
+**Subject :**Introduction To Big Data 
+**Submission Date:** 25 July 2025 
+
+
 # Uber Fare Data Analysis Project
 
 ##  Introduction
